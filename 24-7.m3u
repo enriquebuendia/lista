@@ -5,8 +5,11 @@ http://iptv-line.com:8080/mohsin.habib92/DHQSUczzM2/6776
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Universal", Universal Channel (M)(1080)
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/26908
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Universal Channel (M)(sd)
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Universal", Universal Channel (M)(sd)
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/1493
+
+#EXTINF:-1 tvg-logo="https://es.seaicons.com/wp-content/uploads/2015/09/Hercules-The-Legendary-Journeys-icon.png" group-title="LAT - Canales 24H", Hercules op 1
+http://tvcl.xyz:80/LVH60Ml8Hc/O4XSkHm6Yj/49288
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", Humor es... los Comediantes SD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/327731.ts
