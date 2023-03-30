@@ -1,7 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/B%C3%B6y%C3%BCk_%C5%9F%C9%99h%C9%99rd%C9%99_seks.png" group-title="SERIES 24H", SEX & THE CITY
+http://castlempire.site:8080/mcosantander/9Qh8YqxLtV8y/196977
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Univision_TDN_2012_logo.png" group-title="DEPORTES", TUDN USA
 http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/77070
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTES", FOX PREMIUM
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/77157
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Universal", Universal Channel 1
 http://iptv-line.com:8080/mohsin.habib92/DHQSUczzM2/6776
