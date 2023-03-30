@@ -24,6 +24,9 @@ http://arboltv.xyz:8080/live/marlen/marlen/163838.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTES", FOX PREMIUM 2
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304554
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/ScaryMovie.png" group-title="CINE 24H", SCARY MOVIE
+http://go-nextlevel.xyz:25461/live/Carlos2022/Carlos2022/230056.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Star_Wars_logo.png" group-title="CINE 24H", STAR WARS
 http://castlempire.site:8080/mcosantander/9Qh8YqxLtV8y/196984
 
