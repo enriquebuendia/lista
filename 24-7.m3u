@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Star_Wars_logo.png" group-title="CINE 24H", STAR WARS
+http://castlempire.site:8080/mcosantander/9Qh8YqxLtV8y/196984
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/B%C3%B6y%C3%BCk_%C5%9F%C9%99h%C9%99rd%C9%99_seks.png" group-title="SERIES 24H", SEX & THE CITY
 http://castlempire.site:8080/mcosantander/9Qh8YqxLtV8y/196977
 
