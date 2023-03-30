@@ -1,232 +1,58 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Universal", Universal Channel (M)(1080)
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/26908
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Alerta Aeropuerto SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/323271.ts
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Universal Channel (M)(sd)
+http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/1493
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Alerta Aeropuerto HD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/327729.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Humor es... los Comediantes SD
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", Humor es... los Comediantes SD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/327731.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 1000 Maneras de Morir
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24658.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Mayday Catastrofes Aereas
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25178.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Mundo De Beakman SD
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", El Mundo De Beakman SD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26537.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Caso Cerrado Inmigracion
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/32432.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Caso Cerrado La Familia 1
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/32433.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Caso Cerrado La Familia 2
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34213.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Caso Cerrado La Familia 3
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34214.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Laura Bozzo
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34219.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Exponiendo Infieles
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34235.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Cero en Conducta SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/306613.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Cero en Conducta HD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/306614.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Lo Que Callamos Las Mujeres
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", Lo Que Callamos Las Mujeres
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25227.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Rosa de Guadalupe HD
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", La Rosa de Guadalupe HD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/309882.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Just for Laughs
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/310193.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Castle SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/32327.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 FBI Temp 1
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/36595.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Mentes Criminales Temp 1
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/101937.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 NCIS Los Angeles Temp 1
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24887.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Hawaii 5-0 SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102189.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Lazy Town SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/323265.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Doctora Juguete
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24436.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Autobus Magico
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24437.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Dora y sus Amigos en la Ciudad
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24438.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Animaniacs
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", Animaniacs
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24439.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Agente Oso
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24440.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Bubble Guppies
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24467.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Bebe Jefazo Vuelta al Curro
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24493.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Picapiedras
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24494.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Simpsons Noche de Brujas SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24602.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Coraje el Perro Cobarde
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24603.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Donde esta Wally
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24604.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Laboratorio de Dexter
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", El Laboratorio de Dexter
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24605.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Transformers Mastersforce (1988)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24613.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Digimon Adventure 1
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24614.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Equipo Umizoomi
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24615.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Casa de Mickey Mouse
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24617.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Futurama
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", Futurama
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24618.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Fabulas de Esopo
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24627.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Barney y sus Amigos
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24628.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Simpsons Temp 1-5
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", Los Simpsons Temp 1-5
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24661.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Pantera Rosa
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", La Pantera Rosa
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24674.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Las Pistas de Blue
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24678.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Peppa Pig
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24680.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Paw Patroll
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24681.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Garfield
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", Garfield
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25127.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Chavo del 8 Serie Animada
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", El Chavo del 8 Serie Animada
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25128.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Hey Arnold
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", Hey Arnold
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25130.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Hombres de Negro Serie Animada
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25131.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Pitufos
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", Los Pitufos
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25132.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Dragon Ball (Vers Extendida)
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", Dragon Ball (Vers Extendida)
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25134.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 She-Ra La Princesa del Poder
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25137.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Capitan America y Los Planetarios
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25138.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Tom Y Jerry
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25140.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Tom Y Jerry Kids
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25141.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Pato Aventura
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", Pato Aventura
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25142.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Sailor Moon (001-046)
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", Sailor Moon (001-046)
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25143.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Las Tortugas Ninja
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25147.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Angry Birds Toons
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25148.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Aladino
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25149.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Birdman
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25157.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Gargolas Heroes Goticos
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25158.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Spiderman
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25159.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Super Mario Bross 3
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25160.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Super Campeones (Captain Tsubasa)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25161.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Castores Cascarrabias
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25169.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Saint Seiya Torneo Galactico (1-40)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25170.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Saint Seiya Las 12 Casas (41-73)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25171.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Saint Seiya Asgard (74-99)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25172.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Saint Seiya Poseidon (100-114)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25173.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Saint Seiya Hades (115-145)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25174.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Gi Joe
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25177.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 He-Man y los Masters del Universo
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25219.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Jhonny Bravo
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25220.ts
@@ -239,9 +65,6 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25222.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Las Chicas Superpoderosas
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25223.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Las Guerreras Magicas
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25224.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Dragon Ball Z Cell
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25225.ts
@@ -261,59 +84,14 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26412.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Don Gato y su Pandilla
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26432.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Gasparin y sus Amigos
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26435.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Las Aventuras de Tin Tin
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26582.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Supersonicos
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26583.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Inspector Gadget
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26584.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Candy Candy
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26588.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Familia Meñique
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26589.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Gravity Falls
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26590.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Hannah Montana Temp 1
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26592.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Pequeña Lulu
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26593.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Vengadores (Unidos)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26594.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Brickleberry +15
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26596.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Reto de los Super Amigos
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26598.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Oso Yogui
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26600.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Muppet Babys
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26601.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Beast Wars
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26602.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Beast Wars Machines
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26603.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Mr Pickles
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26619.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los 7 Pecados Capitales
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/27256.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Pinguinos de Madagascar
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/27258.ts
@@ -321,62 +99,11 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/27258.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Fenomenoide
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/27259.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Pais de Donkey Kong
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/27260.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Hormiga y el Oso Hormiguero
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/27261.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Timon & Pumbaa
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/27330.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Casa de los Dibujos
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/32259.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Gallo Claudio
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/32260.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Halcones Galacticos
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/32264.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Rapido y Furioso (Espias a todo gas)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/32268.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Pinky y Cerebro
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/32270.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Dora la Exploradora
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/32319.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Heathcliff
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34128.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Cantinflas (Animada)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34129.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Jackie Chan (Animada)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34130.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Tonta Bruja
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34131.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Beetlejuice
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34216.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Street Sharks
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34217.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Samurai Jack
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34218.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Sonic X
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34220.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Generador Rex
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34236.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Dragones de Berck
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34255.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Picapiedras (Pequeños)
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34278.ts
@@ -384,62 +111,14 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34278.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Gatos Samurai
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34295.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Sakura Card Captor
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34297.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Osos Gummi
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34298.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Liga del Dragon VHSRip
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34299.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Megaman NT Warrior
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34300.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Paradise PD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34301.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Padrinos Magicos
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/36593.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Casa de Mickey Mouse FHD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/36617.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 ThunderCats
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40795.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Tarzan Animado
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40796.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Samurai X
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40797.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Mighty Ducks
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40798.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Cuentos de la Cripta Animada
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40816.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 101 Dalmatas Animada
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40817.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Guardianes de la Galaxia (Animado)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40854.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Backyardigans
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40856.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Robotech
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40857.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Simpsons HD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40858.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Futurama HD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40859.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Pocoyo
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40940.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Clasicos de Disney (Latino)
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/41425.ts
@@ -449,39 +128,6 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/86123.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Simpsons Noche de Brujas FHD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/86124.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Super Mario World
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/93723.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Transformers Armada
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/93724.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Transformers Cybertron
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/93725.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Transformers Energon
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/93726.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Transformers G1
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/93727.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Transformers Headmasters
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/93728.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Digimon Adventure 2
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/93729.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Inspector
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/93730.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Inspector Ardilla
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/93731.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Show del Pajaro Loco
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/93732.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 En el Valle de los Dinosaurios
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/93733.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Sailor Moon R (047-089)
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/93740.ts
@@ -501,15 +147,6 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/94437.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Jumanji Serie Animada
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/94447.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Justicia Joven
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/94448.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Leyenda de Zelda
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/94450.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Mascara Animado SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/94451.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Las Aventuras de Fly
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/101925.ts
 
@@ -518,36 +155,8 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/101926.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Cazafantasmas (1986)
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/101930.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Naruto
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/101939.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Grandes Héroes y Leyendas de la Biblia
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/101942.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Rick Y Morty
+INF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Rick Y Morty
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/101944.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Bob Zoom
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/101946.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Spiderwoman
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/101947.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 X-Men (Animada)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/101958.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Digimon Adventure 1 FHD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102084.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Ben 10
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102316.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Ben 10 FHD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102330.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Samurai Jack FHD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102334.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Simpsons Temp 6-10
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102338.ts
@@ -564,12 +173,6 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/119698.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 ThunderCats (2011)
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/119707.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 PJ Masks: Heroes en pijamas SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40853.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 PJ Masks: Heroes en pijamas HD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/101954.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Reyes de la Colina SD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/119699.ts
 
@@ -582,32 +185,11 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/125338.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Bobs Burgers HD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/125339.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Remi el niño de nadie (1977)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/125340.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Casa de los Dibujos HD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/125341.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Gladiador (1976)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/125342.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Hercules (1998)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/160619.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Mi Pequeño Pony
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/160621.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Super Libro 3D
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/160623.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Dinosaurios
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/211240.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Mágicas aventuras de Quasimodo
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/212947.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Mascara Animado HD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/227925.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Dragon Ball Z Los Saiyajin
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25175.ts
@@ -621,9 +203,6 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26152.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Dragon Ball GT
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25176.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Brujilda
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250545.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Avatar
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250546.ts
 
@@ -636,29 +215,8 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250548.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 ¿Qué hay de nuevo Scooby-Doo
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250549.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los 3 de abajo: Relatos de Arcadia
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250550.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Patoaventuras (2007)
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250557.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Intrepidos
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250558.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 ThunderCats Roar
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250559.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Alien TV
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250839.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Almendrita (1992)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250840.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Aquaman (1968)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250841.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Astro Boy (1980)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250842.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Baby Looney Tunes
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250843.ts
@@ -678,125 +236,11 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/272423.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 The Looney Tunes
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/302770.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Beta X
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/306606.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Beware the Batman (2013)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/306607.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Bayblade
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/306608.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Birdman y el Trío Galaxia
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/306609.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Black Clover
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/306610.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Capitan Sentella
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/306611.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Blaze y los Monster Machine SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/313519.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Blaze y los Monster Machine HD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/313520.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Go Diego Go
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/313521.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Las Aventuras de Paddington SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/313522.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Auto Fantastico Temp 1
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24660.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Auto Fantastico (2008)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26595.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Magnificos Temp 1
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26597.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 MacGiver (2016) Temp 1
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26620.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Baywatch
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40812.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Zorro SD (1956)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40813.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 MacGyver
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/272417.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Movies Jackie Chan
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/272419.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Movies Jim Carrey
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/272420.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Movies Steven Seagal
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/272421.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Movies Tom Cruise
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/272422.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Familia Peluche
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24657.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Familia Peluche HD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/327730.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Una Familia de Diez
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25119.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Una Familia de Diez HD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/327732.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Hora Pico
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26536.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Vecinos Temp 1
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25120.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Vecinos Temp 2
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25179.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Vecinos Temp 3
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26181.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Vecinos Temp 4
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26433.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Vecinos Temp 5
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26434.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Paso A Paso Temp 1
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24675.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Cantinflas Parte 1 (18 Peliculas)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24889.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Cantinflas Parte 2 (19 Peliculas)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25122.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La India Maria
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40929.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Mr Bean
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24679.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Pedro Infante
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25126.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Porcel Y Olmedo
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/27254.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los 3 Chiflados
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/27255.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Friends SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34132.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Full House SD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34277.ts
@@ -804,17 +248,8 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34277.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Hannah Montana
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/94438.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Hechizada SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26437.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Mi Bella Genio Temp 1
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/32275.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Niñera Temp 1
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26604.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Lo Mejor de Videomatch
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/101927.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Malcolm el de en medio SD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25124.ts
@@ -834,104 +269,11 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102157.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 The Big Bang Theory
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/127230.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Tres Chiflados
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/272418.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Puro Teatro
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/272424.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La familia Monster
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/272425.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Chavo del 8
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24888.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Chapulin Colorado
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25121.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 ALF SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26587.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Chespirito (1982)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102219.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Chespirito (1984)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102220.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Chespirito (1985)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102221.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Chespirito (1986)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102229.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Chespirito (1987)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102230.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Chespirito (1988)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102231.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Chespirito (1989)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102310.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Chespirito (1991)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102311.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Chespirito (1992)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102312.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Chespirito (1993)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102313.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Chespirito (1994)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102314.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Chespirito (1995)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102315.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Principe del Rap SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24659.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Principe del Rap HD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/93744.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Principe del Rap FHD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/93745.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los locos Addams (1964)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/306612.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 ER Sala de Urgencias SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25125.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Años Maravillosos SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26411.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Familia Ingalls
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40814.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Familia Ingalls HD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/40815.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Cobra Kai SD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102076.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Buen Doctor SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102077.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Cobra Kai HD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102082.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Buen Doctor HD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102083.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Entre Fantasmas Temp 1
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102202.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Stranger Things
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/309938.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Narrador de Cuentos
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25133.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Xena La Princesa Guerrera SD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25135.ts
@@ -939,84 +281,5 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25135.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Hercules Los Viajes Legendarios SD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25136.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Automan
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25156.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Isla Misteriosa
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25229.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Liveman
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26586.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Expedientes X SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102228.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Expedientes X HD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102234.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Narrador de Cuentos HD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/113786.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Highlander SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/119692.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Tierra de Gigantes
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/160624.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Túnel del Tiempo
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/160625.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Historias de Fantasmas SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/313524.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Oxlack Investigador Paranormal
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25129.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Contacto Extranormal
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34237.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Historias de Ultratumba
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34254.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Lo que la gente cuenta SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/306615.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Lo que la gente cuenta HD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/306616.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Super Libro
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/27257.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Historias de la Biblia
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/101943.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Biblia Serie
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102191.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Alienigenas Ancestrales
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26585.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Grandes Batallas de la Historia SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/313523.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAT - Canales 24H", 24/7 La Gallina Pintadita
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/86126.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAT - Canales 24H", 24/7 Cantando Aprendo a hablar
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102333.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LAT - Canales 24H", 24/7 Hej Kids
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/119691.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Luisito Comunica (Mexico) HD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/127543.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Malcolm el de en medio HD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/327728.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Vulgarcito +18
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/101948.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Mono Mario +18
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/101955.ts
-
