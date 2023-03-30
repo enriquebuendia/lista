@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="HOME & HEALTH", OP 1
 http://go-nextlevel.xyz:25461/live/Carlos2022/Carlos2022/202009.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="HOME & HEALTH", OP 2
+http://dns.k4livetv.com:8080/live/Aaron/Aaron/278527.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/640px-Comedy_Central_2018.svg.png" group-title="COMEDY CENTRAL", OP 1
 http://192.99.70.160:25461/live/tropical/tropical/40.ts
 
