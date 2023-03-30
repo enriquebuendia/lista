@@ -1,5 +1,7 @@
 #EXTM3U
 
+http://nmstreaming.live:25461/ERPRIETO/UKx4VKCjdzaR/2092626
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Discovery_Familia.png" group-title="HOME & HEALTH", DISCOVERY FAMILIA
 http://dns.k4livetv.com:8080/live/Aaron/Aaron/409317.ts
 
