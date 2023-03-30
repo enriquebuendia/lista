@@ -9,7 +9,7 @@ http://arboltv.xyz:8080/live/marlen/marlen/124324.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Linea_2.png" group-title="ESPN", ESPN 2 MX OP 1
 http://arboltv.xyz:8080/live/marlen/marlen/124326.ts
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/607/503/png-clipart-united-states-espn-inc-sport-espn-radio-united-states-white-text.png" group-title="ESPN", ESPN DEPORTES OP 2
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=i/espnradio/logos/espndeportes_1x1.png?w=640&h=640" group-title="ESPN", ESPN DEPORTES OP 2
 http://nmstreaming.live:25461/ERPRIETO/UKx4VKCjdzaR/2123475
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Icon_1_%28set_orange%29.png" group-title="ESPN", ESPN 1 MX OP 2
