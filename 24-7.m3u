@@ -24,13 +24,13 @@ http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/77070
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTES", FOX PREMIUM
 http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/77157
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Universal", Universal Channel 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="Universal", OP 1
 http://iptv-line.com:8080/mohsin.habib92/DHQSUczzM2/6776
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Universal", Universal Channel (M)(1080)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="Universal", OP 2
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/26908
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Universal", Universal Channel (M)(sd)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="Universal", OP 3
 http://tv.kis2.xyz:39001/guadalupee/BPYZwsn5Qj/1493
 
 #EXTINF:-1 tvg-logo="https://es.seaicons.com/wp-content/uploads/2015/09/Hercules-The-Legendary-Journeys-icon.png" group-title="SERIES 24H", Hercules op 1
