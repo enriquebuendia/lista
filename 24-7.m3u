@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="ESPN", ESPN DEPORTES OP 1
 http://arboltv.xyz:8080/live/marlen/marlen/146783.ts
 
-#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Linea_1.png" group-title="ESPN", ESPN 1 MX OP 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Icon_1_%28set_orange%29.png" group-title="ESPN", ESPN 1 MX OP 1
 http://arboltv.xyz:8080/live/marlen/marlen/124324.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Linea_2.png" group-title="ESPN", ESPN 2 MX OP 1
@@ -12,7 +12,7 @@ http://arboltv.xyz:8080/live/marlen/marlen/124326.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="ESPN", ESPN DEPORTES OP 2
 http://nmstreaming.live:25461/ERPRIETO/UKx4VKCjdzaR/2123475
 
-#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:Linea_1.png" group-title="ESPN", ESPN 1 MX OP 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Icon_1_%28set_orange%29.png" group-title="ESPN", ESPN 1 MX OP 2
 http://nmstreaming.live:25461/ERPRIETO/UKx4VKCjdzaR/2092626
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Discovery_Familia.png" group-title="HOME & HEALTH", DISCOVERY FAMILIA
