@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Univision_TDN_2012_logo.png" group-title="DEPORTES", TUDN USA
+http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/77070
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Universal", Universal Channel 1
 http://iptv-line.com:8080/mohsin.habib92/DHQSUczzM2/6776
 
@@ -283,7 +287,7 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102082.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Xena La Princesa Guerrera SD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25135.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Hercules Los Viajes Legendarios SD
+#EXTINF:-1 tvg-logo="https://es.seaicons.com/wp-content/uploads/2015/09/Hercules-The-Legendary-Journeys-icon.png" group-title="LAT - Canales 24H", 24/7 Hercules Los Viajes Legendarios SD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25136.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Malcolm el de en medio HD
