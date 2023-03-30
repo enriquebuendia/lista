@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Universal_Plus_logo.png" group-title="VARIOS", UNIVERSAL COMEDY
+http://arboltv.xyz:8080/live/marlen/marlen/149703.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="FOOD NETWORK", OP 1
 http://arboltv.xyz:8080/live/marlen/marlen/47862.ts
 
