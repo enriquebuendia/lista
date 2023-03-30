@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://los40co00.epimg.net/especiales/depelicula/lol-temporada-2/assets/img/intro3.png" group-title="SERIES 24H", LOL
+http://arboltv.xyz:8080/live/marlen/marlen/163838.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTES", FOX PREMIUM 2
 http://dnsplay.xyz:80/joigcqhj/X44n6dH0cz/304554
 
