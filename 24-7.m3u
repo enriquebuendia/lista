@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/1200px-Espn.png" group-title="DEPORTES", ESPN DEPORTES OP 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/1200px-Espn.png" group-title="ESPN", ESPN DEPORTES OP 1
 http://arboltv.xyz:8080/live/marlen/marlen/146783.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/1200px-Espn.png" group-title="DEPORTES", ESPN DEPORTES OP 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/1200px-Espn.png" group-title="ESPN", ESPN DEPORTES OP 2
 http://nmstreaming.live:25461/ERPRIETO/UKx4VKCjdzaR/2123475
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/1200px-Espn.png" group-title="DEPORTES", ESPN 1 MX OP 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/1200px-Espn.png" group-title="ESPN", ESPN 1 MX OP 1
 http://arboltv.xyz:8080/live/marlen/marlen/124324.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/1200px-Espn.png" group-title="DEPORTES", ESPN 1 MX OP 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/1200px-Espn.png" group-title="ESPN", ESPN 1 MX OP 2
 http://nmstreaming.live:25461/ERPRIETO/UKx4VKCjdzaR/2092626
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Discovery_Familia.png" group-title="HOME & HEALTH", DISCOVERY FAMILIA
@@ -87,9 +87,6 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26537.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="SERIES 24H", Lo Que Callamos Las Mujeres
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25227.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="SERIES 24H", La Rosa de Guadalupe HD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/309882.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", Animaniacs
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/24439.ts
 
@@ -110,9 +107,6 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25127.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", El Chavo del 8 Serie Animada
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25128.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", Hey Arnold
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25130.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", Los Pitufos
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25132.ts
@@ -143,9 +137,6 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25225.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Vaca y el Pollito
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25230.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 South Park Temp 1-5
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26155.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Padre de Familia Temp 1-5
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26178.ts
@@ -236,15 +227,6 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102338.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Simpsons Temp 11-15
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102703.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Ataque a los Titanes SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/102865.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 La Familia del Barrio
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/119698.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 ThunderCats (2011)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/119707.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Los Reyes de la Colina SD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/119699.ts
 
@@ -278,35 +260,11 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25176.ts
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Avatar
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250546.ts
 
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Nuevo Show de Popeye (1978) SD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250547.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 El Nuevo Show de Popeye (1978) HD
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250548.ts
-
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 ¿Qué hay de nuevo Scooby-Doo
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250549.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Patoaventuras (2007)
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250557.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Baby Looney Tunes
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250843.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Batman Serie Animada (1992)
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/250844.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Doramen
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/272415.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="SERIES 24H", 24/7 Stanger Things
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/272416.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 Las Aventuras Del Gato Con Botas
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/272423.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="LAT - Canales 24H", 24/7 The Looney Tunes
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/302770.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="SERIES 24H", 24/7 Movies Jim Carrey
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/272420.ts
@@ -319,9 +277,6 @@ http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/34277.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="SERIES 24H", 24/7 Hannah Montana
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/94438.ts
-
-#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="SERIES 24H", 24/7 La Niñera Temp 1
-http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/26604.ts
 
 #EXTINF:-1 tvg-logo="http://swedtv.vip/logos/otros/24_7.png" group-title="SERIES 24H", 24/7 Malcolm el de en medio SD
 http://maxpro.cc:8080/live/Phenixiptv/acAWT263n7LR/25124.ts
