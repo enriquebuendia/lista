@@ -1,5 +1,5 @@
 #EXTM3U
-http://arboltv.xyz:8080/live/marlen/marlen/146833.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/1200px-Espn.png" group-title="DEPORTES", ESPN DEPORTES OP 1
 http://arboltv.xyz:8080/live/marlen/marlen/146783.ts
 
@@ -54,7 +54,10 @@ http://castlempire.site:8080/mcosantander/9Qh8YqxLtV8y/196984
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/B%C3%B6y%C3%BCk_%C5%9F%C9%99h%C9%99rd%C9%99_seks.png" group-title="SERIES 24H", SEX & THE CITY
 http://castlempire.site:8080/mcosantander/9Qh8YqxLtV8y/196977
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Univision_TDN_2012_logo.png" group-title="DEPORTES", TUDN USA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Univision_TDN_2012_logo.png" group-title="DEPORTES", TUDN USA OP 1
+http://arboltv.xyz:8080/live/marlen/marlen/146833.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Univision_TDN_2012_logo.png" group-title="DEPORTES", TUDN USA OP 2
 http://coresys.dvrdns.org:8080/CarlosL1982/SkXbNRQxtEZS/77070
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="DEPORTES", FOX PREMIUM
