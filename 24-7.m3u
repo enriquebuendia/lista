@@ -33,6 +33,9 @@ http://192.99.70.160:25461/live/tropical/tropical/40.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Universal_Plus_logo.png" group-title="VARIOS", UNIVERSAL COMEDY OP2
 http://castlempire.site:8080/mcosantander/9Qh8YqxLtV8y/204897
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Universal_Plus_logo.png" group-title="VARIOS", UNIVERSAL COMEDY OP 3
+http://hidra.live:80/live/J9okU7pEQV/jyghIME0wd/34855.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Universal_Plus_logo.png" group-title="VARIOS", UNIVERSAL COMEDY
 http://arboltv.xyz:8080/live/marlen/marlen/149703.ts
 
