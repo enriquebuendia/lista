@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/266-2661632_espn-deportes-radio-logo.png" group-title="FAMILY GUY", PADRE DE FAMILIA OP 1
+http://hg75.serveexchange.com:8080/999428602tv/2qvnd9/9910?token=ThRYUhdcFVwXAgEDClRXWwBTXAACAQEDVA8GXAsEBlpQV1ELAVJTUQ0RFEdLFhNcWF1mWQATXgsPCFVJGhNCB0dpWVdGDhVXBAMBUQ5ATRtNWVRVRgtVBA4JVlQMVgZXGRRAWgAWDUQHCgBVGk5DXEFEXEIKUAhtUlwTDFsDE1hbQ1xfSBZYCGpXXQhZDAUbAxIJEkgTDUFGG18LTQpdThdUWUcWVUMDFwkaVwBaVhsVElpfEV8QQE8bX0d1PhNOF1NIRwFaRA9aXRpfGhYSGxUSUEM7QwFBQksABFUDQ0APFAARSBZaB01sWwpWDARaTVlWXhcTXhAFG0lHVQlfC0FZQmwUXVNEDxELVQhbQ0Q=
+
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/266-2661632_espn-deportes-radio-logo.png" group-title="ESPN", ESPN DEPORTES OP 1
 http://arboltv.xyz:8080/live/marlen/marlen/146783.ts
 
